@@ -1,4 +1,4 @@
-# TP2 Angular GL 4 Groupe 2
+# TP2 Android GL 4 Groupe 2
 ## Trinome:
     Ben hamouda ala
     Chabbar Azer
